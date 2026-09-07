@@ -1,0 +1,24 @@
+# Lab 03 — ARP Spoofing
+student_id: ""
+student_name: ""
+
+answers:
+  q1_victim_ip: ""
+  q1_victim_mac: ""
+  q1_gateway_ip: ""
+  q1_gateway_mac: ""
+  q1_attacker_ip: ""
+  q1_attacker_mac: ""
+
+  q2_arp_request_count: ""   # จำนวน ARP Request
+  q2_arp_reply_count: ""     # จำนวน ARP Reply
+  q2_attack_start_packet: "" # packet # ที่เริ่มโจมตี
+
+  q3_packet2_mac: ""         # MAC ของ IP 10.10.80.1 ใน packet 2
+  q3_packet3_mac: ""         # MAC ของ IP 10.10.80.1 ใน packet 3
+  q3_anomaly: ""             # ความผิดปกติที่เห็น
+
+  q4_reason_both_sides: ""   # ทำไมต้อง poison ทั้ง 2 ฝั่ง
+
+  q5_prevention_1: ""
+  q5_prevention_2: ""

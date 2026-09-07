@@ -1,0 +1,18 @@
+# Lab 02 — Plaintext Credential Sniffing
+student_id: ""
+student_name: ""
+
+answers:
+  q1_client_ip: ""           # FTP Client IP
+  q1_server_ip: ""           # FTP Server IP
+
+  q2_tcp_stream: ""          # บทสนทนาทั้งหมดจาก Follow TCP Stream
+
+  q3_username: ""            # Username ที่เจอ
+  q3_password: ""            # Password ที่เจอ
+
+  q4_code_331: ""            # ความหมาย response code 331
+  q4_code_230: ""            # ความหมาย response code 230
+
+  q5_ftp_risk: ""            # ความเสี่ยงของ FTP
+  q5_sftp_safe: ""           # ทำไม SFTP ถึงปลอดภัยกว่า

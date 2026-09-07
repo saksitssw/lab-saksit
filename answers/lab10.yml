@@ -1,0 +1,24 @@
+# Lab 10 — WiFi Deauthentication
+student_id: ""
+student_name: ""
+
+answers:
+  q1_ap_mac: ""
+  q1_client_mac: ""
+  q1_attacker_mac: ""
+  q1_ssid: ""
+
+  q2_deauth_count: ""        # จำนวน Deauth frames
+  q2_interval: ""            # ช่วงเวลา (วินาที)
+
+  q3_spoofed_mac: ""         # MAC ที่ attacker ปลอม
+  q3_reason: ""              # ทำไมต้องปลอม
+
+  q4_frame14: ""
+  q4_frame15: ""
+  q4_frame1617: ""
+  q4_frame1819: ""
+  q4_frame2023: ""
+
+  q5_handshake_danger: ""
+  q5_prevention: ""

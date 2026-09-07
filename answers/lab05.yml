@@ -1,0 +1,24 @@
+# Lab 05 — SQL Injection
+student_id: ""
+student_name: ""
+
+answers:
+  q1_attacker_ip: ""
+  q1_server_ip: ""
+
+  q2_req1_method: ""         # HTTP method ของ request 1
+  q2_req1_response: ""       # response code ของ request 1
+  q2_req2_method: ""
+  q2_req2_response: ""
+  q2_req3_method: ""
+  q2_req3_response: ""
+
+  q3_bypass_packet: ""       # request # ที่เป็น login bypass
+  q3_sqli_payload: ""        # SQLi payload
+
+  q4_union_packet: ""        # request # ที่ใช้ UNION SELECT
+  q4_stolen_data: ""         # ข้อมูลที่ดึงออกมา
+
+  q5_prevention_1: ""
+  q5_prevention_2: ""
+  q5_prevention_3: ""

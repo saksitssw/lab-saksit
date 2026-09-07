@@ -1,0 +1,19 @@
+# Lab 07 — Ransomware C2 Beacon
+student_id: ""
+student_name: ""
+
+answers:
+  q1_infected_ip: ""
+  q1_c2_ip: ""
+  q1_c2_domain: ""
+
+  q2_beacon_count: ""        # จำนวน beacon
+  q2_beacon_interval: ""     # ช่วงเวลา (วินาที)
+
+  q3_decoded_payload: ""     # ข้อมูลหลังถอดรหัส base64
+
+  q4_last_response: ""       # response ครั้งสุดท้ายต่างจากก่อนอย่างไร
+  q4_command: ""             # คำสั่งที่ได้รับ
+
+  q5_detection_1: ""
+  q5_detection_2: ""

@@ -1,0 +1,708 @@
+{
+  "total_score": 0,
+  "total_max": 124.5,
+  "labs": [
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab01",
+      "score": 0,
+      "auto_gradable_max": 13.0,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_scanner_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q1_target_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q2_port_22",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_80",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_443",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_139",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_445",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_3389",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_8080",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q2_port_21",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.75
+        },
+        {
+          "question": "q4_filter_scanner",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_filter_open",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab02",
+      "score": 0,
+      "auto_gradable_max": 10,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_client_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_server_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_username",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q3_password",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_code_331",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_code_230",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab03",
+      "score": 0,
+      "auto_gradable_max": 11.5,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_victim_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_victim_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.5
+        },
+        {
+          "question": "q1_gateway_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_gateway_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.5
+        },
+        {
+          "question": "q1_attacker_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_attacker_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.5
+        },
+        {
+          "question": "q2_arp_request_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_arp_reply_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_attack_start_packet",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q3_packet2_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q3_packet3_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab04",
+      "score": 0,
+      "auto_gradable_max": 14.0,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_infected_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_dns_server",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_query1",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q2_query2",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1.5
+        },
+        {
+          "question": "q2_query3",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q4_decoded_text",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 5
+        },
+        {
+          "question": "q5_wireshark_filter",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab05",
+      "score": 0,
+      "auto_gradable_max": 16,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_attacker_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_server_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_req1_method",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_req1_response",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_req2_method",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_req2_response",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_req3_method",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_req3_response",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_sqli_payload",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 4
+        },
+        {
+          "question": "q4_stolen_data",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 4
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab06",
+      "score": 0,
+      "auto_gradable_max": 15,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_attacker_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_server_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_total_attempts",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q2_interval_seconds",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q3_pass1",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_pass2",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_pass3",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_pass4",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_pass5",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q4_correct_password",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 4
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab07",
+      "score": 0,
+      "auto_gradable_max": 11,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_infected_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_c2_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_c2_domain",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_beacon_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q2_beacon_interval",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_command",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 4
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab08",
+      "score": 0,
+      "auto_gradable_max": 10.0,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_victim_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_victim_port",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.5
+        },
+        {
+          "question": "q1_attacker_ip",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_attacker_port",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 0.5
+        },
+        {
+          "question": "q1_who_initiated",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_cmd1",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_out1",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_cmd2",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_out2",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q4_privilege",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab09",
+      "score": 0,
+      "auto_gradable_max": 14,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_mail_from",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_rcpt_to",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_from_header",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q3_phishing_url",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 3
+        },
+        {
+          "question": "q3_is_real",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_username",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_password",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q4_response_code",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "student_id": "",
+      "student_name": "",
+      "lab": "lab10",
+      "score": 0,
+      "auto_gradable_max": 10,
+      "lab_total": 20,
+      "results": [
+        {
+          "question": "q1_ap_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_client_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_attacker_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q1_ssid",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 1
+        },
+        {
+          "question": "q2_deauth_count",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 2
+        },
+        {
+          "question": "q3_spoofed_mac",
+          "student_answer": "",
+          "correct": false,
+          "earned": 0,
+          "max": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Lab 06 — Brute Force Login
+student_id: ""
+student_name: ""
+
+answers:
+  q1_attacker_ip: ""
+  q1_server_ip: ""
+
+  q2_total_attempts: ""      # จำนวนครั้งที่ POST
+  q2_interval_seconds: ""    # ช่วงเวลาห่าง (วินาที)
+  q2_bot_indicator: ""       # สิ่งที่บ่งบอกว่าเป็น bot
+
+  q3_pass1: ""
+  q3_pass2: ""
+  q3_pass3: ""
+  q3_pass4: ""
+  q3_pass5: ""
+
+  q4_correct_password: ""    # password ที่ถูกต้อง
+
+  q5_prevention_1: ""
+  q5_prevention_2: ""
+  q5_prevention_3: ""

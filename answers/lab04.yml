@@ -1,0 +1,18 @@
+# Lab 04 — DNS Tunneling
+student_id: ""
+student_name: ""
+
+answers:
+  q1_infected_ip: ""
+  q1_dns_server: ""
+
+  q2_query1: ""
+  q2_query2: ""
+  q2_query3: ""
+
+  q3_subdomain_pattern: ""   # ลักษณะผิดปกติของ subdomain
+
+  q4_decoded_text: ""        # ข้อความหลังถอดรหัส base32
+
+  q5_wireshark_filter: ""    # filter ตรวจจับ DNS tunneling
+  q5_prevention: ""

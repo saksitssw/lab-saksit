@@ -1,0 +1,24 @@
+# Lab 09 — Phishing + Credential Harvesting
+student_id: ""
+student_name: ""
+
+answers:
+  q1_mail_from: ""
+  q1_rcpt_to: ""
+  q1_from_header: ""
+  q1_subject: ""
+
+  q2_spoofing_location: ""   # spoofing อยู่ตรงไหน
+  q2_explanation: ""
+
+  q3_phishing_url: ""        # URL ใน email
+  q3_is_real: ""             # ใช่ของจริงหรือไม่ (yes/no)
+
+  q4_post_url: ""
+  q4_username: ""
+  q4_password: ""
+  q4_response_code: ""
+
+  q5_indicator_1: ""
+  q5_indicator_2: ""
+  q5_indicator_3: ""

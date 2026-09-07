@@ -1,0 +1,43 @@
+name: Auto Grade
+
+on:
+  push:
+    paths:
+      - 'answers/**.yml'
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run Auto-Grader
+        run: python grader/grade.py
+
+      - name: Save results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: grade-results
+          path: grade_results.json
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config --global user.name "Auto Grader"
+          git config --global user.email "grader@github-actions"
+          git add grade_results.json || true
+          git diff --staged --quiet || git commit -m "🤖 Auto-grade results [skip ci]"
+          git push || true
